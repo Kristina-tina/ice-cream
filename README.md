@@ -3,3 +3,5 @@ Styling with modern CSS techniques. Adding animations & interactivity with JavaS
 
 🛠 Technologies stack
 HTML, CSS, JS
+
+![demo image](assets/demo.png)
